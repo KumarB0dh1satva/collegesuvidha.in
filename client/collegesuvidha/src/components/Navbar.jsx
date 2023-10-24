@@ -55,11 +55,6 @@ function Navbar() {
                     <div className='pr-4 pl-4'>
                         
 
-                        {/* <Link to={`/signin`}>  
-                            <div className='text-xs xl:text-sm cursor-pointer'>
-                                Sign In
-                            </div>
-                        </Link> */}
                         <Link to={`/dashboard/#profile`}>
                             <div>
                             <Avatar
